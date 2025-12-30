@@ -1,0 +1,29 @@
+body{
+    /* background-color: rgb(168, 140, 105); */
+    /* background-image: url(../image/8275340.jpg); */
+    background-image: linear-gradient(to right, #6C864A,#826B54, #59168bcc), url(../image/8275340.jpg);
+}
+/* #6a9a17cc */
+
+
+table h3{
+    border-bottom: 1px solid beige;
+    display: inline-block;
+}
+
+h2{
+     border-bottom: 1px solid beige;
+    display: inline-block;
+}
+
+
+button{
+    cursor: pointer;
+}
+
+
+::selection {
+    background-color: #ffffff;
+    color: #0B0E13;
+}
+
